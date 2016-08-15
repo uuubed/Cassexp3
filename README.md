@@ -1,0 +1,2 @@
+# Cassexp3
+FTPonly
